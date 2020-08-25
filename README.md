@@ -42,3 +42,10 @@ You will create a Makefile to compile the files in the `LinkedListSingle` folder
 You will create a Makefile to compile the files in the `LinkedListDouble` folder. The name of the executable must be `run_list_run`.
 
 # Rubric (TBD)
+
+    Makefile for FnPointers                 - 20%
+    Makefile for LinkedListSingle           - 25%
+    Makefile for LinkedListDouble           - 30%
+    Makefile syntax same as Context above   - 25%
+    ---------------------------------------------
+    Total                                   - 100%
