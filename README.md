@@ -1,4 +1,5 @@
 # homework-1
+Assigned 8/29/2020, due 9/6/2020 11:59 pm.
 ## Context
 For this homework you will be creating three `Makefiles` for three folders. These folders are:
     
@@ -29,6 +30,8 @@ For every Makefile in the three folders you need to follow the syntax:
         rm *.o
         rm executable_name
         
+# YOU WILL NOT WRITE ANY C CODE IN THIS HOMEWORK!
+
 ## FnPointers
 
 You will create a Makefile to compile the file in the `FnPointers` folder. The name of the executable must be `test_pointer`.
