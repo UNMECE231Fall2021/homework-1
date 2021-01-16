@@ -1,13 +1,13 @@
 # homework-1
-Assigned 8/29/2020, due 9/6/2020 11:59 pm.
+Assigned 1/29/2021, due 2/6/2021 11:59 pm.
 ## Context
 For this homework you will be creating three `Makefiles` for three folders. These folders are:
     
-    FnPointers
     LinkedListSingle
     LinkedListDouble
+    FnPointers
     
-There will be an appropriate `Makefile` for each folder. Each folder will have its own difficulty in creating a Makefile. `FnPointers` will be the easiest as it is one file, `LinkedListSingle` will be the second easiest, and `LinkedListDouble` will be the least easiest. 
+There will be an appropriate `Makefile` for each folder. Each folder will have its own difficulty in creating a Makefile. `LinkedListSingle` will be the easiest as it is one file, `LinkedListDouble` will be the second easiest, and `FnPointers` will be the least easiest. 
 
 For every Makefile in the three folders you need to follow the syntax:
 
@@ -32,10 +32,6 @@ For every Makefile in the three folders you need to follow the syntax:
         
 # YOU WILL NOT WRITE ANY C CODE IN THIS HOMEWORK!
 
-## FnPointers
-
-You will create a Makefile to compile the file in the `FnPointers` folder. The name of the executable must be `test_pointer`.
-
 ## LinkedListSingle
 
 You will create a Makefile to compile the files in the `LinkedListSingle` folder. The name of the executable must be `test_list`.
@@ -44,11 +40,15 @@ You will create a Makefile to compile the files in the `LinkedListSingle` folder
 
 You will create a Makefile to compile the files in the `LinkedListDouble` folder. The name of the executable must be `run_list_run`.
 
+## FnPointers
+
+You will create a Makefile to compile the file in the `FnPointers` folder. The name of the executable must be `test_pointer`.
+
 # Rubric
 
-    Makefile for FnPointers                 - 20%
-    Makefile for LinkedListSingle           - 25%
-    Makefile for LinkedListDouble           - 30%
+    Makefile for LinkedListSingle           - 20%
+    Makefile for LinkedListDouble           - 25%
+    Makefile for FnPointers                 - 30%
     Makefile syntax same as Context above   - 25%
     ---------------------------------------------
     Total                                   - 100%
