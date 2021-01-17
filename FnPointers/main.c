@@ -1,23 +1,8 @@
 #include <stdio.h>
-
-double square(double x) {
-	return x * x;
-}
-
-double cube(double x) {
-	return square(x) * x;
-}
-
-double custom_abs(double a) {
-	return (a<0) ? -a : a;
-}
-
-// A function that takes another function and a double as an input. (*hldr)
-//	is a pointer to a function that returns a double, and has a double as
-//	an input.
-double handler(double(*hldr)(double), double x) {
-	return hldr(x);
-}
+#include "square.h"
+#include "cube.h"
+#include "absolute_val.h"
+#include "handles.h"
 
 int main() {
 	int i;
