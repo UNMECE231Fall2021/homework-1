@@ -1,2 +1,5 @@
 *.o
 a.out
+test_list
+run_list_run
+test_pointer
