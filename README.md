@@ -45,10 +45,10 @@ You will create a Makefile to compile the files in the `LinkedListDouble` folder
 You will create a Makefile to compile the file in the `FnPointers` folder. The name of the executable must be `test_pointer`.
 
 # Rubric
-
-    Makefile for LinkedListSingle           - 20%
-    Makefile for LinkedListDouble           - 25%
-    Makefile for FnPointers                 - 30%
-    Makefile syntax same as Context above   - 25%
-    ---------------------------------------------
-    Total                                   - 100%
+|Requirement                            |Score  |
+|    :---:                              | :---: |
+|Makefile for LinkedListSingle          | 20%   |
+|Makefile for LinkedListDouble          | 25%   |
+|Makefile for FnPointers                | 30%   |
+|Makefile syntax same as Context above  | 25%   |
+|Total                                  | 100%  |
