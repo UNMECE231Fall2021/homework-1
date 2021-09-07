@@ -1,5 +1,5 @@
 # homework-1
-Assigned 1/29/2021, due 2/6/2021 11:59 pm.
+Assigned 9/10/2021, due 9/18/2021 11:59 pm.
 ## Context
 For this homework you will be creating three `Makefiles` for three folders. These folders are:
     
@@ -43,6 +43,8 @@ You will create a Makefile to compile the files in the `LinkedListDouble` folder
 ## FnPointers
 
 You will create a Makefile to compile the file in the `FnPointers` folder. The name of the executable must be `test_pointer`.
+
+### You cannot use automatic variables in any of the makefiles in this assignment!
 
 # Rubric
 |Requirement                            |Score  |
